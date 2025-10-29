@@ -1,4 +1,3 @@
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Mark(commandos)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/markmedhat) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@markmedhat03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:markmadhat03@gmail.com) 
 
